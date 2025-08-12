@@ -23,7 +23,7 @@ video {
     margin: 0 auto;
     max-width: 100%;
     height: auto;
-    autoplay: true;
+    fallback: true;
 }
 
 h2 {
